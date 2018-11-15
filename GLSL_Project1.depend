@@ -1,0 +1,752 @@
+# depslib dependency file v1.0
+1480200392 source:d:\codeblocks projects\glsl_project1\glad\src\glad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<glad/glad.h>
+	<windows.h>
+	<dlfcn.h>
+
+1480200390 d:\codeblocks projects\glsl_project1\glad\include\glad\glad.h
+	<windows.h>
+	<stddef.h>
+	<KHR/khrplatform.h>
+	<inttypes.h>
+	<inttypes.h>
+	<inttypes.h>
+	<stdint.h>
+	<stdint.h>
+	<inttypes.h>
+
+1480200390 d:\codeblocks projects\glsl_project1\glad\include\khr\khrplatform.h
+	<sys/cdefs.h>
+	<stdint.h>
+	<inttypes.h>
+	<stdint.h>
+
+1534010012 source:c:\users\fahim\desktop\glsl_project1\camera.cpp
+	"Camera.h"
+
+1534010015 c:\users\fahim\desktop\glsl_project1\include\camera.h
+	<iostream>
+	"Vec3f.h"
+	"Mat4f.h"
+	"Quat4f.h"
+	"OpenGLMatrixTools.h"
+
+1534010016 c:\users\fahim\desktop\glsl_project1\include\vec3f.h
+	<iostream>
+	<cmath>
+	<algorithm>
+
+1534010016 c:\users\fahim\desktop\glsl_project1\include\mat4f.h
+	<assert.h>
+	<memory>
+	<initializer_list>
+	<array>
+	<functional>
+	<algorithm>
+	<iterator>
+	<iostream>
+
+1534010016 c:\users\fahim\desktop\glsl_project1\include\quat4f.h
+	<ostream>
+	<cmath>
+	"Vec3f.h"
+	"Mat4f.h"
+
+1534010016 c:\users\fahim\desktop\glsl_project1\include\openglmatrixtools.h
+	<cmath>
+	"Mat4f.h"
+	"Vec3f.h"
+
+1534010015 source:c:\users\fahim\desktop\glsl_project1\glad\src\glad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<glad/glad.h>
+	<windows.h>
+	<dlfcn.h>
+
+1534010015 c:\users\fahim\desktop\glsl_project1\glad\include\glad\glad.h
+	<windows.h>
+	<stddef.h>
+	<KHR/khrplatform.h>
+	<inttypes.h>
+	<inttypes.h>
+	<inttypes.h>
+	<stdint.h>
+	<stdint.h>
+	<inttypes.h>
+
+1534010015 c:\users\fahim\desktop\glsl_project1\glad\include\khr\khrplatform.h
+	<sys/cdefs.h>
+	<stdint.h>
+	<inttypes.h>
+	<stdint.h>
+
+1534018681 source:c:\users\fahim\desktop\glsl_project1\main.cpp
+	<iostream>
+	<cmath>
+	<chrono>
+	<limits>
+	"glad/glad.h"
+	<GLFW/glfw3.h>
+	"ShaderTools.h"
+	"Vec3f.h"
+	"Mat4f.h"
+	"OpenGLMatrixTools.h"
+	"Camera.h"
+
+1534010016 c:\users\fahim\desktop\glsl_project1\include\glfw\glfw3.h
+	<stddef.h>
+	<stdint.h>
+	<OpenGL/gl3.h>
+	<OpenGL/gl3ext.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/glcorearb.h>
+	<GLES/gl.h>
+	<GLES/glext.h>
+	<GLES2/gl2.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl3.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl31.h>
+	<GLES2/gl2ext.h>
+	<vulkan/vulkan.h>
+	<GL/gl.h>
+	<GL/glext.h>
+	<GL/glu.h>
+
+1534010016 c:\users\fahim\desktop\glsl_project1\include\shadertools.h
+	"glad/glad.h"
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+
+1534010013 source:c:\users\fahim\desktop\glsl_project1\mat4f.cpp
+	"Mat4f.h"
+
+1534010013 source:c:\users\fahim\desktop\glsl_project1\openglmatrixtools.cpp
+	"OpenGLMatrixTools.h"
+	<cmath>
+
+1534010013 source:c:\users\fahim\desktop\glsl_project1\quat4f.cpp
+	"Quat4f.h"
+	<limits>
+
+1534010013 source:c:\users\fahim\desktop\glsl_project1\shadertools.cpp
+	"ShaderTools.h"
+
+1534010013 source:c:\users\fahim\desktop\glsl_project1\vec3f.cpp
+	"Vec3f.h"
+	<cmath>
+	<iostream>
+
+1534010012 source:c:\users\fahim\desktop\glsl_project_3d\camera.cpp
+	"Camera.h"
+
+1534010015 c:\users\fahim\desktop\glsl_project_3d\include\camera.h
+	<iostream>
+	"Vec3f.h"
+	"Mat4f.h"
+	"Quat4f.h"
+	"OpenGLMatrixTools.h"
+
+1534010016 c:\users\fahim\desktop\glsl_project_3d\include\vec3f.h
+	<iostream>
+	<cmath>
+	<algorithm>
+
+1534010016 c:\users\fahim\desktop\glsl_project_3d\include\mat4f.h
+	<assert.h>
+	<memory>
+	<initializer_list>
+	<array>
+	<functional>
+	<algorithm>
+	<iterator>
+	<iostream>
+
+1534010016 c:\users\fahim\desktop\glsl_project_3d\include\quat4f.h
+	<ostream>
+	<cmath>
+	"Vec3f.h"
+	"Mat4f.h"
+
+1534010016 c:\users\fahim\desktop\glsl_project_3d\include\openglmatrixtools.h
+	<cmath>
+	"Mat4f.h"
+	"Vec3f.h"
+
+1534010015 source:c:\users\fahim\desktop\glsl_project_3d\glad\src\glad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<glad/glad.h>
+	<windows.h>
+	<dlfcn.h>
+
+1534010015 c:\users\fahim\desktop\glsl_project_3d\glad\include\glad\glad.h
+	<windows.h>
+	<stddef.h>
+	<KHR/khrplatform.h>
+	<inttypes.h>
+	<inttypes.h>
+	<inttypes.h>
+	<stdint.h>
+	<stdint.h>
+	<inttypes.h>
+
+1534010015 c:\users\fahim\desktop\glsl_project_3d\glad\include\khr\khrplatform.h
+	<sys/cdefs.h>
+	<stdint.h>
+	<inttypes.h>
+	<stdint.h>
+
+1534018681 source:c:\users\fahim\desktop\glsl_project_3d\main.cpp
+	<iostream>
+	<cmath>
+	<chrono>
+	<limits>
+	"glad/glad.h"
+	<GLFW/glfw3.h>
+	"ShaderTools.h"
+	"Vec3f.h"
+	"Mat4f.h"
+	"OpenGLMatrixTools.h"
+	"Camera.h"
+
+1534010016 c:\users\fahim\desktop\glsl_project_3d\include\glfw\glfw3.h
+	<stddef.h>
+	<stdint.h>
+	<OpenGL/gl3.h>
+	<OpenGL/gl3ext.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/glcorearb.h>
+	<GLES/gl.h>
+	<GLES/glext.h>
+	<GLES2/gl2.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl3.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl31.h>
+	<GLES2/gl2ext.h>
+	<vulkan/vulkan.h>
+	<GL/gl.h>
+	<GL/glext.h>
+	<GL/glu.h>
+
+1534010016 c:\users\fahim\desktop\glsl_project_3d\include\shadertools.h
+	"glad/glad.h"
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+
+1534010013 source:c:\users\fahim\desktop\glsl_project_3d\mat4f.cpp
+	"Mat4f.h"
+
+1534010013 source:c:\users\fahim\desktop\glsl_project_3d\openglmatrixtools.cpp
+	"OpenGLMatrixTools.h"
+	<cmath>
+
+1534010013 source:c:\users\fahim\desktop\glsl_project_3d\quat4f.cpp
+	"Quat4f.h"
+	<limits>
+
+1534010013 source:c:\users\fahim\desktop\glsl_project_3d\shadertools.cpp
+	"ShaderTools.h"
+
+1534010013 source:c:\users\fahim\desktop\glsl_project_3d\vec3f.cpp
+	"Vec3f.h"
+	<cmath>
+	<iostream>
+
+1534010012 source:c:\users\mahdi\downloads\glsl_project_3d\camera.cpp
+	"Camera.h"
+
+1534010015 c:\users\mahdi\downloads\glsl_project_3d\include\camera.h
+	<iostream>
+	"Vec3f.h"
+	"Mat4f.h"
+	"Quat4f.h"
+	"OpenGLMatrixTools.h"
+
+1534010016 c:\users\mahdi\downloads\glsl_project_3d\include\vec3f.h
+	<iostream>
+	<cmath>
+	<algorithm>
+
+1534010016 c:\users\mahdi\downloads\glsl_project_3d\include\mat4f.h
+	<assert.h>
+	<memory>
+	<initializer_list>
+	<array>
+	<functional>
+	<algorithm>
+	<iterator>
+	<iostream>
+
+1534010016 c:\users\mahdi\downloads\glsl_project_3d\include\quat4f.h
+	<ostream>
+	<cmath>
+	"Vec3f.h"
+	"Mat4f.h"
+
+1534010016 c:\users\mahdi\downloads\glsl_project_3d\include\openglmatrixtools.h
+	<cmath>
+	"Mat4f.h"
+	"Vec3f.h"
+
+1534010015 source:c:\users\mahdi\downloads\glsl_project_3d\glad\src\glad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<glad/glad.h>
+	<windows.h>
+	<dlfcn.h>
+
+1534010015 c:\users\mahdi\downloads\glsl_project_3d\glad\include\glad\glad.h
+	<windows.h>
+	<stddef.h>
+	<KHR/khrplatform.h>
+	<inttypes.h>
+	<inttypes.h>
+	<inttypes.h>
+	<stdint.h>
+	<stdint.h>
+	<inttypes.h>
+
+1534010015 c:\users\mahdi\downloads\glsl_project_3d\glad\include\khr\khrplatform.h
+	<sys/cdefs.h>
+	<stdint.h>
+	<inttypes.h>
+	<stdint.h>
+
+1534710284 source:c:\users\mahdi\downloads\glsl_project_3d\main.cpp
+	<iostream>
+	<cmath>
+	<chrono>
+	<limits>
+	"glad/glad.h"
+	<GLFW/glfw3.h>
+	"ShaderTools.h"
+	"Vec3f.h"
+	"Mat4f.h"
+	"OpenGLMatrixTools.h"
+	"Camera.h"
+
+1534010016 c:\users\mahdi\downloads\glsl_project_3d\include\glfw\glfw3.h
+	<stddef.h>
+	<stdint.h>
+	<OpenGL/gl3.h>
+	<OpenGL/gl3ext.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/glcorearb.h>
+	<GLES/gl.h>
+	<GLES/glext.h>
+	<GLES2/gl2.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl3.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl31.h>
+	<GLES2/gl2ext.h>
+	<vulkan/vulkan.h>
+	<GL/gl.h>
+	<GL/glext.h>
+	<GL/glu.h>
+
+1534010016 c:\users\mahdi\downloads\glsl_project_3d\include\shadertools.h
+	"glad/glad.h"
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+
+1534010013 source:c:\users\mahdi\downloads\glsl_project_3d\mat4f.cpp
+	"Mat4f.h"
+
+1534010013 source:c:\users\mahdi\downloads\glsl_project_3d\openglmatrixtools.cpp
+	"OpenGLMatrixTools.h"
+	<cmath>
+
+1534010013 source:c:\users\mahdi\downloads\glsl_project_3d\quat4f.cpp
+	"Quat4f.h"
+	<limits>
+
+1534010013 source:c:\users\mahdi\downloads\glsl_project_3d\shadertools.cpp
+	"ShaderTools.h"
+
+1534010013 source:c:\users\mahdi\downloads\glsl_project_3d\vec3f.cpp
+	"Vec3f.h"
+	<cmath>
+	<iostream>
+
+1534010012 source:c:\users\ronys\onedrive\desktop\glsl_project_3d\camera.cpp
+	"Camera.h"
+
+1534010015 c:\users\ronys\onedrive\desktop\glsl_project_3d\include\camera.h
+	<iostream>
+	"Vec3f.h"
+	"Mat4f.h"
+	"Quat4f.h"
+	"OpenGLMatrixTools.h"
+
+1534010016 c:\users\ronys\onedrive\desktop\glsl_project_3d\include\vec3f.h
+	<iostream>
+	<cmath>
+	<algorithm>
+
+1534010016 c:\users\ronys\onedrive\desktop\glsl_project_3d\include\mat4f.h
+	<assert.h>
+	<memory>
+	<initializer_list>
+	<array>
+	<functional>
+	<algorithm>
+	<iterator>
+	<iostream>
+
+1534010016 c:\users\ronys\onedrive\desktop\glsl_project_3d\include\quat4f.h
+	<ostream>
+	<cmath>
+	"Vec3f.h"
+	"Mat4f.h"
+
+1534010016 c:\users\ronys\onedrive\desktop\glsl_project_3d\include\openglmatrixtools.h
+	<cmath>
+	"Mat4f.h"
+	"Vec3f.h"
+
+1534010015 source:c:\users\ronys\onedrive\desktop\glsl_project_3d\glad\src\glad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<glad/glad.h>
+	<windows.h>
+	<dlfcn.h>
+
+1534010015 c:\users\ronys\onedrive\desktop\glsl_project_3d\glad\include\glad\glad.h
+	<windows.h>
+	<stddef.h>
+	<KHR/khrplatform.h>
+	<inttypes.h>
+	<inttypes.h>
+	<inttypes.h>
+	<stdint.h>
+	<stdint.h>
+	<inttypes.h>
+
+1534010015 c:\users\ronys\onedrive\desktop\glsl_project_3d\glad\include\khr\khrplatform.h
+	<sys/cdefs.h>
+	<stdint.h>
+	<inttypes.h>
+	<stdint.h>
+
+1534757638 source:c:\users\ronys\onedrive\desktop\glsl_project_3d\main.cpp
+	<iostream>
+	<cmath>
+	<chrono>
+	<limits>
+	"glad/glad.h"
+	<GLFW/glfw3.h>
+	"ShaderTools.h"
+	"Vec3f.h"
+	"Mat4f.h"
+	"OpenGLMatrixTools.h"
+	"Camera.h"
+
+1534010016 c:\users\ronys\onedrive\desktop\glsl_project_3d\include\glfw\glfw3.h
+	<stddef.h>
+	<stdint.h>
+	<OpenGL/gl3.h>
+	<OpenGL/gl3ext.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/glcorearb.h>
+	<GLES/gl.h>
+	<GLES/glext.h>
+	<GLES2/gl2.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl3.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl31.h>
+	<GLES2/gl2ext.h>
+	<vulkan/vulkan.h>
+	<GL/gl.h>
+	<GL/glext.h>
+	<GL/glu.h>
+
+1534010016 c:\users\ronys\onedrive\desktop\glsl_project_3d\include\shadertools.h
+	"glad/glad.h"
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+
+1534010013 source:c:\users\ronys\onedrive\desktop\glsl_project_3d\mat4f.cpp
+	"Mat4f.h"
+
+1534010013 source:c:\users\ronys\onedrive\desktop\glsl_project_3d\openglmatrixtools.cpp
+	"OpenGLMatrixTools.h"
+	<cmath>
+
+1534010013 source:c:\users\ronys\onedrive\desktop\glsl_project_3d\quat4f.cpp
+	"Quat4f.h"
+	<limits>
+
+1534010013 source:c:\users\ronys\onedrive\desktop\glsl_project_3d\shadertools.cpp
+	"ShaderTools.h"
+
+1534010013 source:c:\users\ronys\onedrive\desktop\glsl_project_3d\vec3f.cpp
+	"Vec3f.h"
+	<cmath>
+	<iostream>
+
+1534010012 source:c:\users\tashf\onedrive\desktop\graphics\fol1\glsl_project_3d\camera.cpp
+	"Camera.h"
+
+1534010015 c:\users\tashf\onedrive\desktop\graphics\fol1\glsl_project_3d\include\camera.h
+	<iostream>
+	"Vec3f.h"
+	"Mat4f.h"
+	"Quat4f.h"
+	"OpenGLMatrixTools.h"
+
+1534010016 c:\users\tashf\onedrive\desktop\graphics\fol1\glsl_project_3d\include\vec3f.h
+	<iostream>
+	<cmath>
+	<algorithm>
+
+1534010016 c:\users\tashf\onedrive\desktop\graphics\fol1\glsl_project_3d\include\mat4f.h
+	<assert.h>
+	<memory>
+	<initializer_list>
+	<array>
+	<functional>
+	<algorithm>
+	<iterator>
+	<iostream>
+
+1534010016 c:\users\tashf\onedrive\desktop\graphics\fol1\glsl_project_3d\include\quat4f.h
+	<ostream>
+	<cmath>
+	"Vec3f.h"
+	"Mat4f.h"
+
+1534010016 c:\users\tashf\onedrive\desktop\graphics\fol1\glsl_project_3d\include\openglmatrixtools.h
+	<cmath>
+	"Mat4f.h"
+	"Vec3f.h"
+
+1534010015 source:c:\users\tashf\onedrive\desktop\graphics\fol1\glsl_project_3d\glad\src\glad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<glad/glad.h>
+	<windows.h>
+	<dlfcn.h>
+
+1534010015 c:\users\tashf\onedrive\desktop\graphics\fol1\glsl_project_3d\glad\include\glad\glad.h
+	<windows.h>
+	<stddef.h>
+	<KHR/khrplatform.h>
+	<inttypes.h>
+	<inttypes.h>
+	<inttypes.h>
+	<stdint.h>
+	<stdint.h>
+	<inttypes.h>
+
+1534010015 c:\users\tashf\onedrive\desktop\graphics\fol1\glsl_project_3d\glad\include\khr\khrplatform.h
+	<sys/cdefs.h>
+	<stdint.h>
+	<inttypes.h>
+	<stdint.h>
+
+1534766518 source:c:\users\tashf\onedrive\desktop\graphics\fol1\glsl_project_3d\main.cpp
+	<iostream>
+	<cmath>
+	<chrono>
+	<limits>
+	"glad/glad.h"
+	<GLFW/glfw3.h>
+	"ShaderTools.h"
+	"Vec3f.h"
+	"Mat4f.h"
+	"OpenGLMatrixTools.h"
+	"Camera.h"
+
+1534010016 c:\users\tashf\onedrive\desktop\graphics\fol1\glsl_project_3d\include\glfw\glfw3.h
+	<stddef.h>
+	<stdint.h>
+	<OpenGL/gl3.h>
+	<OpenGL/gl3ext.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/glcorearb.h>
+	<GLES/gl.h>
+	<GLES/glext.h>
+	<GLES2/gl2.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl3.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl31.h>
+	<GLES2/gl2ext.h>
+	<vulkan/vulkan.h>
+	<GL/gl.h>
+	<GL/glext.h>
+	<GL/glu.h>
+
+1534010016 c:\users\tashf\onedrive\desktop\graphics\fol1\glsl_project_3d\include\shadertools.h
+	"glad/glad.h"
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+
+1534010013 source:c:\users\tashf\onedrive\desktop\graphics\fol1\glsl_project_3d\mat4f.cpp
+	"Mat4f.h"
+
+1534010013 source:c:\users\tashf\onedrive\desktop\graphics\fol1\glsl_project_3d\openglmatrixtools.cpp
+	"OpenGLMatrixTools.h"
+	<cmath>
+
+1534010013 source:c:\users\tashf\onedrive\desktop\graphics\fol1\glsl_project_3d\quat4f.cpp
+	"Quat4f.h"
+	<limits>
+
+1534010013 source:c:\users\tashf\onedrive\desktop\graphics\fol1\glsl_project_3d\shadertools.cpp
+	"ShaderTools.h"
+
+1534010013 source:c:\users\tashf\onedrive\desktop\graphics\fol1\glsl_project_3d\vec3f.cpp
+	"Vec3f.h"
+	<cmath>
+	<iostream>
+
+1534010014 source:c:\users\tashf\onedrive\desktop\kickoff\glsl_project_3d\camera.cpp
+	"Camera.h"
+
+1534010016 c:\users\tashf\onedrive\desktop\kickoff\glsl_project_3d\include\camera.h
+	<iostream>
+	"Vec3f.h"
+	"Mat4f.h"
+	"Quat4f.h"
+	"OpenGLMatrixTools.h"
+
+1534010018 c:\users\tashf\onedrive\desktop\kickoff\glsl_project_3d\include\vec3f.h
+	<iostream>
+	<cmath>
+	<algorithm>
+
+1534010018 c:\users\tashf\onedrive\desktop\kickoff\glsl_project_3d\include\mat4f.h
+	<assert.h>
+	<memory>
+	<initializer_list>
+	<array>
+	<functional>
+	<algorithm>
+	<iterator>
+	<iostream>
+
+1534010018 c:\users\tashf\onedrive\desktop\kickoff\glsl_project_3d\include\quat4f.h
+	<ostream>
+	<cmath>
+	"Vec3f.h"
+	"Mat4f.h"
+
+1534010018 c:\users\tashf\onedrive\desktop\kickoff\glsl_project_3d\include\openglmatrixtools.h
+	<cmath>
+	"Mat4f.h"
+	"Vec3f.h"
+
+1534010016 source:c:\users\tashf\onedrive\desktop\kickoff\glsl_project_3d\glad\src\glad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<glad/glad.h>
+	<windows.h>
+	<dlfcn.h>
+
+1534010016 c:\users\tashf\onedrive\desktop\kickoff\glsl_project_3d\glad\include\glad\glad.h
+	<windows.h>
+	<stddef.h>
+	<KHR/khrplatform.h>
+	<inttypes.h>
+	<inttypes.h>
+	<inttypes.h>
+	<stdint.h>
+	<stdint.h>
+	<inttypes.h>
+
+1534010016 c:\users\tashf\onedrive\desktop\kickoff\glsl_project_3d\glad\include\khr\khrplatform.h
+	<sys/cdefs.h>
+	<stdint.h>
+	<inttypes.h>
+	<stdint.h>
+
+1534767004 source:c:\users\tashf\onedrive\desktop\kickoff\glsl_project_3d\main.cpp
+	<iostream>
+	<cmath>
+	<chrono>
+	<limits>
+	"glad/glad.h"
+	<GLFW/glfw3.h>
+	"ShaderTools.h"
+	"Vec3f.h"
+	"Mat4f.h"
+	"OpenGLMatrixTools.h"
+	"Camera.h"
+
+1534010018 c:\users\tashf\onedrive\desktop\kickoff\glsl_project_3d\include\glfw\glfw3.h
+	<stddef.h>
+	<stdint.h>
+	<OpenGL/gl3.h>
+	<OpenGL/gl3ext.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/glcorearb.h>
+	<GLES/gl.h>
+	<GLES/glext.h>
+	<GLES2/gl2.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl3.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl31.h>
+	<GLES2/gl2ext.h>
+	<vulkan/vulkan.h>
+	<GL/gl.h>
+	<GL/glext.h>
+	<GL/glu.h>
+
+1534010018 c:\users\tashf\onedrive\desktop\kickoff\glsl_project_3d\include\shadertools.h
+	"glad/glad.h"
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+
+1534010014 source:c:\users\tashf\onedrive\desktop\kickoff\glsl_project_3d\mat4f.cpp
+	"Mat4f.h"
+
+1534010014 source:c:\users\tashf\onedrive\desktop\kickoff\glsl_project_3d\openglmatrixtools.cpp
+	"OpenGLMatrixTools.h"
+	<cmath>
+
+1534010014 source:c:\users\tashf\onedrive\desktop\kickoff\glsl_project_3d\quat4f.cpp
+	"Quat4f.h"
+	<limits>
+
+1534010014 source:c:\users\tashf\onedrive\desktop\kickoff\glsl_project_3d\shadertools.cpp
+	"ShaderTools.h"
+
+1534010014 source:c:\users\tashf\onedrive\desktop\kickoff\glsl_project_3d\vec3f.cpp
+	"Vec3f.h"
+	<cmath>
+	<iostream>
+
